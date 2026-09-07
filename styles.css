@@ -183,7 +183,7 @@ h1,h2,h3,h4 { font-family: var(--font-display); line-height: 1.15; margin: 0; }
 }
 .hero-inner { position: relative; max-width: 840px; margin: 0 auto; }
 .hero-logo {
-  height: auto; max-height: 240px; width: auto; max-width: 100%; margin-bottom: 18px;
+  height: auto; max-height: 288px; width: auto; max-width: 100%; margin-bottom: 18px;
   filter: drop-shadow(0 8px 22px rgba(0,0,0,.4));
   animation: floaty 5s ease-in-out infinite;
 }
@@ -609,7 +609,7 @@ details.section-collapse > .collapsible-body { padding: 8px 22px 26px; }
   .section { padding: 40px 0 4px; }
   .slots { grid-template-columns: 1fr 1fr; }
   .rung .rung-desc { display: none; }
-  .hero-logo { max-height: 160px; }
+  .hero-logo { max-height: 190px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
