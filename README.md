@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="anonymobs" height="192">
+</p>
+
 # anonymobs.org
 
 This is the repository for the **[anonymobs.org](https://anonymobs.org)** website — a *Mob Control* clan &amp; strategy hub for the **Anonymobs** clan.
